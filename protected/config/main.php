@@ -49,8 +49,8 @@ return array(
 		'db'=>array(
 			'connectionString' => 'mysql:host=localhost;dbname=100by1',
 			'emulatePrepare' => true,
-			'username' => 'root',
-			'password' => 'TestPassword',
+			'username' => '100by1',
+			'password' => 'rAmokO',
 			'charset' => 'utf8',
 		),
 		'errorHandler'=>array(

@@ -1,0 +1,16 @@
+{
+    "name": "boris-tolstukha/100by1",
+    "description": "100 by 1 game screen",
+    "require": {
+        "yiisoft/yii": "1.1.19"
+    },
+    "require-dev": {
+        "yiisoft/yii": "1.1.19"
+    },
+    "authors": [
+        {
+            "name": "Boris Tolstukha",
+            "email": "boris.tolstukha@gmail.com"
+        }
+    ]
+}
