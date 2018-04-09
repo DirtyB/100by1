@@ -1,0 +1,34 @@
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.question {
+	width: 800px;
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.question h1 {
+	font-size: 28pt
+}
+
+.answers {
+	width: 800px;
+}
+
+.answer{
+	font-size: 24pt;
+	vertical-align: middle;
+	min-height: 70px;
+}
+
+.answer-text {
+	display: inline;
+}
+
+.score {
+	float: right;
+}
